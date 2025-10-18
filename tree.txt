@@ -1,0 +1,156 @@
+/Users/ahsanali/Desktop/suit-canvas/public/assets
+├── 70
+│   ├── F-ASSET-73401
+│   │   ├── Fabric.png
+│   │   ├── Jacket
+│   │   │   ├── Closure
+│   │   │   │   ├── D4-J.png
+│   │   │   │   ├── D6-J.png
+│   │   │   │   ├── S1-J.png
+│   │   │   │   └── S2-J.png
+│   │   │   ├── Lapel
+│   │   │   │   ├── D-PEAK-J.png
+│   │   │   │   ├── S1-CONCAVE-J.png
+│   │   │   │   ├── S1-NOTCH-J.png
+│   │   │   │   ├── S1-PEAK-J.png
+│   │   │   │   ├── S2-CONCAVE-J.png
+│   │   │   │   ├── S2-NOTCH-J.png
+│   │   │   │   └── S2-PEAK-J.png
+│   │   │   ├── Pocket
+│   │   │   │   ├── Breast Pocket
+│   │   │   │   │   ├── B-BOAT-J.png
+│   │   │   │   │   └── B-PATCH-J.png
+│   │   │   │   └── Hip Pocket
+│   │   │   │       ├── H-FLAP-J.png
+│   │   │   │       ├── H-JETTED-J.png
+│   │   │   │       └── H-PATCH-J.png
+│   │   │   └── Sleeve
+│   │   │       └── Sleeve.png
+│   │   ├── Trouser
+│   │   │   ├── Pleat
+│   │   │   │   ├── DOUBLE-P.png
+│   │   │   │   ├── NONE.png
+│   │   │   │   └── SINGLE-P.png
+│   │   │   └── Waistband
+│   │   │       ├── DOUBLE-SIDE.png
+│   │   │       ├── EXTENDED.png
+│   │   │       └── STANDARD.png
+│   │   └── Waistcoat
+│   │       ├── Closure
+│   │       │   ├── D6-W.png
+│   │       │   ├── D8-W.png
+│   │       │   ├── S4-W.png
+│   │       │   └── S5-W.png
+│   │       ├── Pocket
+│   │       │   ├── JETTED-W.png
+│   │       │   └── WELT-W.png
+│   │       └── V-Shape
+│   │           ├── D-NOTCH-W.png
+│   │           ├── D-PEAK-W.png
+│   │           ├── S4-NOTCH-W.png
+│   │           └── S5-NOTCH-W.png
+│   └── F-ASSET-73433
+│       ├── Fabric.png
+│       ├── Jacket
+│       │   ├── Closure
+│       │   │   ├── D4-J.png
+│       │   │   ├── D6-J.png
+│       │   │   ├── S1-J.png
+│       │   │   └── S2-J.png
+│       │   ├── Lapel
+│       │   │   ├── D-PEAK-J.png
+│       │   │   ├── S1-CONCAVE-J.png
+│       │   │   ├── S1-NOTCH-J.png
+│       │   │   ├── S1-PEAK-J.png
+│       │   │   ├── S2-CONCAVE-J.png
+│       │   │   ├── S2-NOTCH-J.png
+│       │   │   └── S2-PEAK-J.png
+│       │   ├── Monogram
+│       │   ├── Pocket
+│       │   │   ├── Breast Pocket
+│       │   │   │   ├── B-BOAT-J.png
+│       │   │   │   └── B-PATCH-J.png
+│       │   │   └── Hip Pocket
+│       │   │       ├── H-FLAP-J.png
+│       │   │       ├── H-JETTED-J.png
+│       │   │       └── H-PATCH-J.png
+│       │   └── Sleeve
+│       │       └── Sleeve.png
+│       ├── SUIT-BUILDER.psd
+│       ├── Trouser
+│       │   ├── Pleat 
+│       │   │   ├── DOUBLE-P.png
+│       │   │   ├── NONE.png
+│       │   │   └── SINGLE-P.png
+│       │   └── Waistband 
+│       │       ├── DOUBLE-SIDE.png
+│       │       ├── EXTENDED.png
+│       │       └── STANDARD.png
+│       └── Waistcoat
+│           ├── Closure 
+│           │   ├── D6-W.png
+│           │   ├── D8-W.png
+│           │   ├── S4-W.png
+│           │   └── S5-W.png
+│           ├── Pocket 
+│           │   ├── JETTED-W.png
+│           │   └── WELT-W.png
+│           └── V-Shape 
+│               ├── D-NOTCH-W.png
+│               ├── D-PEAK-W.png
+│               ├── S4-NOTCH-W.png
+│               └── S5-NOTCH-W.png
+└── 80
+    └── F-ASSET-GD31007_6
+        ├── Fabric.png
+        ├── Jacket
+        │   ├── Closure 
+        │   │   ├── D4-J.png
+        │   │   ├── D6-J.png
+        │   │   ├── S1-J.png
+        │   │   └── S2-J.png
+        │   ├── Lapel 
+        │   │   ├── D-PEAK-J.png
+        │   │   ├── S1-CONCAVE-J.png
+        │   │   ├── S1-NOTCH-J.png
+        │   │   ├── S1-PEAK-J.png
+        │   │   ├── S2-CONCAVE-J.png
+        │   │   ├── S2-NOTCH-J.png
+        │   │   └── S2-PEAK-J.png
+        │   ├── Monogram 
+        │   ├── Pocket 
+        │   │   ├── Breast Pocket
+        │   │   │   ├── B-BOAT-J.png
+        │   │   │   └── B-PATCH-J.png
+        │   │   └── Hip Pocket
+        │   │       ├── H-FLAP-J.png
+        │   │       ├── H-JETTED-J.png
+        │   │       └── H-PATCH-J.png
+        │   └── Sleeve
+        │       └── Sleeve.png
+        ├── SUIT-BUILDER.psd
+        ├── Trouser
+        │   ├── Pleat 
+        │   │   ├── DOUBLE-P.png
+        │   │   ├── NONE.png
+        │   │   └── SINGLE-P.png
+        │   └── Waistband 
+        │       ├── DOUBLE-SIDE.png
+        │       ├── EXTENDED.png
+        │       └── STANDARD.png
+        └── Waistcoat
+            ├── Closure 
+            │   ├── D6-W.png
+            │   ├── D8-W.png
+            │   ├── S4-W.png
+            │   └── S5-W.png
+            ├── Pocket 
+            │   ├── JETTED-W.png
+            │   └── WELT-W.png
+            └── V-Shape 
+                ├── D-NOTCH-W.png
+                ├── D-PEAK-W.png
+                ├── S4-NOTCH-W.png
+                └── S5-NOTCH-W.png
+
+50 directories, 104 files
